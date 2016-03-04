@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[petar]]></title>
         <description><![CDATA[petar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/petar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 21:01:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 21:22:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/petar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=oGTjHSBYQLw</p>]]></description>
+            <link>https://thegrid.ai/petar/455b12e3-5259-4436-85e4-9da28bcd3f0f/index.html</link>
+            <guid isPermaLink="false">455b12e3-5259-4436-85e4-9da28bcd3f0f</guid>
+            <pubDate>Fri, 04 Mar 2016 21:22:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://pilatesarea.com/PILATES%20AREA%20_%20Caroline%20Castner%20Peak%20Pilates%20Trainer%20_%20Berlin_files/pilates_area_ibiza.jpg">]]></description>
-            <link>undefined4ab107b8-d8a4-4f0b-851f-494329fa8c24/index.html</link>
+            <link>https://thegrid.ai/petar/4ab107b8-d8a4-4f0b-851f-494329fa8c24/index.html</link>
             <guid isPermaLink="false">4ab107b8-d8a4-4f0b-851f-494329fa8c24</guid>
             <pubDate>Fri, 04 Mar 2016 21:01:10 GMT</pubDate>
         </item>
